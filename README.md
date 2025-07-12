@@ -1,4 +1,4 @@
-Okay, I understand. Here is the markdown content for your README file, without the Canvas formatting:
+
 
 # PDF Q\&A System with Google Gemini and LangChain
 
